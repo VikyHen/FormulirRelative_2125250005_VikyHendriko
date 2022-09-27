@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FormulirRelative_VikyHendriko</string>
+    <string-array name="arr_prodi">
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknik Electro</item>
+        <item>Akuntasi</item>
+        <item>Manajemen</item>
+        <item>Manajemen Informatika</item>
+    </string-array>
+</resources>
